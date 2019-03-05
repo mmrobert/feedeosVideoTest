@@ -12,6 +12,18 @@
 		9B067ECB222DE2FA000E5653 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EC9222DE2FA000E5653 /* Main.storyboard */; };
 		9B067ECD222DE2FC000E5653 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B067ECC222DE2FC000E5653 /* Assets.xcassets */; };
 		9B067ED0222DE2FC000E5653 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B067ECE222DE2FC000E5653 /* LaunchScreen.storyboard */; };
+		9B067ED8222DE8A4000E5653 /* UPCarouselFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B067ED7222DE8A4000E5653 /* UPCarouselFlowLayout.swift */; };
+		9B067EE1222DEA86000E5653 /* VideoPlayingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B067EDF222DEA86000E5653 /* VideoPlayingCell.swift */; };
+		9B067EE2222DEA86000E5653 /* VideoPlayingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EE0222DEA86000E5653 /* VideoPlayingCell.xib */; };
+		9B067EE5222DF4F2000E5653 /* K9Advantix.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EE4222DF4F2000E5653 /* K9Advantix.mp4 */; };
+		9B067EE7222DF525000E5653 /* Sargento.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EE6222DF525000E5653 /* Sargento.mp4 */; };
+		9B067EE9222DF555000E5653 /* HowDoes.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EE8222DF555000E5653 /* HowDoes.mp4 */; };
+		9B067EEB222DF576000E5653 /* RiceKrispies.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EEA222DF576000E5653 /* RiceKrispies.mp4 */; };
+		9B067EED222DF5AF000E5653 /* Gorilla2018.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EEC222DF5AF000E5653 /* Gorilla2018.mp4 */; };
+		9B067EEF222DF5E6000E5653 /* ReeseEggs.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9B067EEE222DF5E6000E5653 /* ReeseEggs.mp4 */; };
+		9B067EF5222DFABC000E5653 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B067EF4222DFABC000E5653 /* Video.swift */; };
+		9B067EF9222E9D2B000E5653 /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B067EF8222E9D2B000E5653 /* VideoView.swift */; };
+		9B067EFB222E9EFC000E5653 /* VideosListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B067EFA222E9EFC000E5653 /* VideosListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		9B067ECC222DE2FC000E5653 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B067ECF222DE2FC000E5653 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B067ED1222DE2FC000E5653 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B067ED7222DE8A4000E5653 /* UPCarouselFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UPCarouselFlowLayout.swift; sourceTree = "<group>"; };
+		9B067EDF222DEA86000E5653 /* VideoPlayingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayingCell.swift; sourceTree = "<group>"; };
+		9B067EE0222DEA86000E5653 /* VideoPlayingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VideoPlayingCell.xib; sourceTree = "<group>"; };
+		9B067EE4222DF4F2000E5653 /* K9Advantix.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = K9Advantix.mp4; sourceTree = "<group>"; };
+		9B067EE6222DF525000E5653 /* Sargento.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Sargento.mp4; sourceTree = "<group>"; };
+		9B067EE8222DF555000E5653 /* HowDoes.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = HowDoes.mp4; sourceTree = "<group>"; };
+		9B067EEA222DF576000E5653 /* RiceKrispies.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = RiceKrispies.mp4; sourceTree = "<group>"; };
+		9B067EEC222DF5AF000E5653 /* Gorilla2018.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Gorilla2018.mp4; sourceTree = "<group>"; };
+		9B067EEE222DF5E6000E5653 /* ReeseEggs.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ReeseEggs.mp4; sourceTree = "<group>"; };
+		9B067EF4222DFABC000E5653 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		9B067EF8222E9D2B000E5653 /* VideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+		9B067EFA222E9EFC000E5653 /* VideosListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideosListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +80,48 @@
 			children = (
 				9B067EC5222DE2FA000E5653 /* AppDelegate.swift */,
 				9B067EC7222DE2FA000E5653 /* ViewController.swift */,
+				9B067EDF222DEA86000E5653 /* VideoPlayingCell.swift */,
+				9B067EE0222DEA86000E5653 /* VideoPlayingCell.xib */,
+				9B067EF1222DFA69000E5653 /* ViewModels */,
+				9B067EF0222DFA57000E5653 /* DataModels */,
+				9B067EE3222DF40D000E5653 /* VideoFiles */,
 				9B067EC9222DE2FA000E5653 /* Main.storyboard */,
+				9B067ED7222DE8A4000E5653 /* UPCarouselFlowLayout.swift */,
 				9B067ECC222DE2FC000E5653 /* Assets.xcassets */,
 				9B067ECE222DE2FC000E5653 /* LaunchScreen.storyboard */,
 				9B067ED1222DE2FC000E5653 /* Info.plist */,
 			);
 			path = Feedeos;
+			sourceTree = "<group>";
+		};
+		9B067EE3222DF40D000E5653 /* VideoFiles */ = {
+			isa = PBXGroup;
+			children = (
+				9B067EE4222DF4F2000E5653 /* K9Advantix.mp4 */,
+				9B067EE6222DF525000E5653 /* Sargento.mp4 */,
+				9B067EE8222DF555000E5653 /* HowDoes.mp4 */,
+				9B067EEA222DF576000E5653 /* RiceKrispies.mp4 */,
+				9B067EEC222DF5AF000E5653 /* Gorilla2018.mp4 */,
+				9B067EEE222DF5E6000E5653 /* ReeseEggs.mp4 */,
+			);
+			path = VideoFiles;
+			sourceTree = "<group>";
+		};
+		9B067EF0222DFA57000E5653 /* DataModels */ = {
+			isa = PBXGroup;
+			children = (
+				9B067EF4222DFABC000E5653 /* Video.swift */,
+			);
+			path = DataModels;
+			sourceTree = "<group>";
+		};
+		9B067EF1222DFA69000E5653 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				9B067EF8222E9D2B000E5653 /* VideoView.swift */,
+				9B067EFA222E9EFC000E5653 /* VideosListView.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +182,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B067EED222DF5AF000E5653 /* Gorilla2018.mp4 in Resources */,
+				9B067EE2222DEA86000E5653 /* VideoPlayingCell.xib in Resources */,
+				9B067EE5222DF4F2000E5653 /* K9Advantix.mp4 in Resources */,
 				9B067ED0222DE2FC000E5653 /* LaunchScreen.storyboard in Resources */,
 				9B067ECD222DE2FC000E5653 /* Assets.xcassets in Resources */,
+				9B067EEB222DF576000E5653 /* RiceKrispies.mp4 in Resources */,
+				9B067EEF222DF5E6000E5653 /* ReeseEggs.mp4 in Resources */,
+				9B067EE7222DF525000E5653 /* Sargento.mp4 in Resources */,
 				9B067ECB222DE2FA000E5653 /* Main.storyboard in Resources */,
+				9B067EE9222DF555000E5653 /* HowDoes.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +202,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B067EFB222E9EFC000E5653 /* VideosListView.swift in Sources */,
+				9B067EE1222DEA86000E5653 /* VideoPlayingCell.swift in Sources */,
+				9B067EF9222E9D2B000E5653 /* VideoView.swift in Sources */,
 				9B067EC8222DE2FA000E5653 /* ViewController.swift in Sources */,
 				9B067EC6222DE2FA000E5653 /* AppDelegate.swift in Sources */,
+				9B067ED8222DE8A4000E5653 /* UPCarouselFlowLayout.swift in Sources */,
+				9B067EF5222DFABC000E5653 /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,8 +354,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B3L9Z83YP6;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Feedeos/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -291,6 +364,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.boqiancheng.www.Feedeos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -300,8 +374,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B3L9Z83YP6;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Feedeos/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -309,6 +384,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.boqiancheng.www.Feedeos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
